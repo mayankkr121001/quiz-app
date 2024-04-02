@@ -8,7 +8,7 @@ const Data = [
     {
         id: 2,
         question: "What is the capital of Punjab?",
-        options: ["Patiala", "Ludhiana", "Amritsar", "Chandigarh"],
+        options: ["Patiala","Chandigarh", "Ludhiana", "Amritsar" ],
         answer: "Chandigarh",
     },
     {
